@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Xuejian Wang (王雪剑)"
+title: "Kunpeng Ren (任昆鹏)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Here is My Latest Curriculum Vitae]](http://xjwangsjtu.github.io/files/Wang.pdf)
+[[Here is My Latest Curriculum Vitae]](http://kunpengren.github.io/files/CV_Kunpeng.pdf)
 
 
 Education
