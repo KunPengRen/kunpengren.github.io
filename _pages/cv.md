@@ -14,10 +14,10 @@ redirect_from:
 
 Education
 ======
-* I am now a **Ph.D. student** at CMU, advised by Prof. [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/).
-* I am a Graduate Student Associate in DATA Lab, Carnegie Mellon University.
-* My research interests lie in deep learning and representation learning, as well as their applications in recommender systems, natural language processing and anomaly detection. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:xuejianw@andrew.cmu.edu">email</a>.
-* I received my Bachelor's Degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I worked as a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), advised by [Prof. Weinan Zhang](http://wnzhang.net), [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
+* I am now a **M.Eng student** at PKU, advised by by Prof. [Huiping Sun](https://huipingsun.github.io/) and Prof. [Chen, Zhong](https://eecs.pku.edu.cn/info/1502/6739.htm).
+* I am a Graduate Student Associate in Infosec Laboratory, Peking University.
+* My research interests lie in blockchain and smart contract, as well as their applications in data privay, fintech systems. My research interests also include static program analysis in smart contract. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:kunpengren@pku.edu.cn">email</a>.
+* I received my Bachelor's Degree in [HuaQiao University](https://www.sjtu.edu.cn), advised by [Prof. Hui Tian](http://www.scholat.com/htian.en). 
 
 
 Publications
@@ -31,7 +31,6 @@ Research Experience
 ======
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
 * <i> Neural Link Prediction over Aligned Networks <\i> <br> **Accepted as a full paper at AAAI 2018**. Aug.2017 - Sep.2017
-* KDD China Summer School Graduates
   
 Talks
 ======
