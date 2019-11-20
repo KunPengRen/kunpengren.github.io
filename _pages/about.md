@@ -3,19 +3,19 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from: ./
   - /about/
   - /about.html
 ---
 
 <p align="center">
-  <img src="https://xjwangsjtu.github.io/files/XuejianWang.jpeg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://xjwangsjtu.github.io/files/kunpeng.jpeg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 
-* I am now a first-year PhD student at [Heinz College](https://www.heinz.cmu.edu), [Carnegie Mellon University](https://www.cmu.edu). Here is my [Curriculum Vitae](http://xjwangsjtu.github.io/files/CV_XuejianWang.pdf).
-* My research interests lie in deep learning and representation learning, as well as their applications in natural language processing, recommender systems. My research interests also include overcoming catastrophic forgetting in neural nets. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:xuejianw@andrew.cmu.edu">email</a>.
-* My research is supported by [CMU Presidential Fellowship](https://www.cmu.edu/leadership/pres-fellow-scholar/).
+* I am now a third-year M.Eng student in the [School of Software & Microelectronics](http://www.ss.pku.edu.cn/en/) at [Peking University](http://english.pku.edu.cn/), advised by Prof. [Huiping Sun](https://huipingsun.github.io/) and Prof. [Chen, Zhong](https://eecs.pku.edu.cn/info/1502/6739.htm). Here is my [Curriculum Vitae](http://kunpengren.github.io/files/CV_Kunpeng.pdf).
+* My research interests lie in blockchain and smart contract, as well as their applications in data privay, fintech systems. My research interests also include static program analysis in smart contract. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:kunpengren@pku.edu.cn">email</a>.
+* Now, I am a research intern in the [Database System Group](https://www.comp.nus.edu.sg/~dbsystem/) at [National University Of Singapore](http://www.nus.edu.sg/), advised by Prof. [OOI Beng Chin](https://www.comp.nus.edu.sg/~ooibc/) .
 
 News
 ===

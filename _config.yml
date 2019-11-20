@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuejian Wang"
+title                    : "Kunpeng Ren"
 title_separator          : "-"
-name                     : &name "Xuejian Wang"
-description              : &description "Ph.D. student, Carnegie Mellon University"
-url                      : https://xjwangsjtu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kunpeng Ren"
+description              : &description "M.Eng student, Software Engineering, Peking University"
+url                      : https://kunpengren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xjwangsjtu/xjwangsjtu.github.io"
+repository               : "kunpengren/kunpengren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -74,13 +74,13 @@ google_analytics: UA-111474017-1
 
 # Site Author
 author:
-  name             : "Xuejian Wang"
-  avatar           : "XuejianWang.jpeg"
-  bio              : "Ph.D. student, Carnegie Mellon University"
-  location         : "Pittsburgh, Pennsylvania"
+  name             : "Kunpeng Ren"
+  avatar           : "kunpeng.jpeg"
+  bio              : "M.Eng student, Software Engineering, Peking University"
+  location         : "Beijing, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=JPtvkA0AAAAJ&hl=zh-CN"
-  email            : "xuejianw@andrew.cmu.edu"
+  #googlescholar    : "https://scholar.google.com/citations?user=JPtvkA0AAAAJ&hl=zh-CN"
+  email            : "kunpengren@pku.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-#  github           : "xjwangsjtu"
+  github           : "kunpengren"
   google_plus      :
   keybase          :
   instagram        : 
