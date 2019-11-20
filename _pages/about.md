@@ -9,7 +9,7 @@ redirect_from: ./
 ---
 
 <p align="center">
-  <img src="https://xjwangsjtu.github.io/files/kunpeng.jpeg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://kunpengren.github.io/files/kunpeng.jpeg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 
