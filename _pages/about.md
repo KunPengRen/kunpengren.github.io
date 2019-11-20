@@ -19,5 +19,11 @@ redirect_from: ./
 
 News
 ===
-[<b>June 17, 2019</b>] Started my internship as an applied scientist@Amazon Seattle.      
+[<b>July 15, 2019</b>] I joined in [Database System Group](https://www.comp.nus.edu.sg/~dbsystem/) of National University Of Singapore as research intern.  
+[<b>November 29, 2018</b>] I give a [talk]() about Dapp development in Tron meet up.    
+[<b>September 5, 2018</b>] I attended a [roundtable talking](https://36kr.com/p/5152330) about blockchain security in 2018 P.O.D PublicChain-Odaily-Developer Conference.    
+[<b>September 1, 2018</b>] I joined in [Network and Information Security Lab ](http://netsec.ccert.edu.cn) of Tsinghua University as research intern.  
+[<b>August 25, 2018</b>] Our stable economic model won the second place in [Blockchain Stable Economic Model Design Competition](https://www.blockasia.io/blockchain-stable-economic-model-design-competition/).  
+[<b>July 22, 2018</b>] Our project [BCHVis]() won the [Champion(1/15)](https://bitool.cn/articles-3bdb6b5.html) in [DORAHACKS X BCH GLOBAL TOP HACKERS HACKATHON(Beijing, China)](https://www.hackathon.com/event/dorahacks-x-bch-global-top-hackers-hackathon-47926261739).  
+[<b>April 1, 2018</b>] I joined in [Infosec Laboratory](http://infosec.pku.edu.cn/index.htm) of Peking Unversity as research assistant.  
 [<b>November 30, 2017</b>] Started my internship in SkyEye Labs of [360 Enterprise Security Group](https://www.qianxin.com/en).  
