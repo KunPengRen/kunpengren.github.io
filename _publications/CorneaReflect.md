@@ -1,7 +1,7 @@
 ---
 title: "CorneaReflect：Face Liveness Detection for Smartphone Based on Corneal Reflection"
 collection: publications
-permalink: /publications/AAAI
+permalink: /publications/CorneaReflect
 venue: "Pre-public"
 date: 2019-11-04
 citation: ''
@@ -9,7 +9,7 @@ citation: ''
 
 
 ## Abstract
-LFace recognition has become increasingly popular as a verification method on
+Face recognition has become increasingly popular as a verification method on
 smartphones. But it is vulnerable to attack by perform presentation attacks, which disrupt the face
 recognition system by presenting a facial biometric artifact (i.e., photo, video replay, and 3D masks,
 etc). In order to mitigate this problem, liveness detection has been proved to be the most promising
