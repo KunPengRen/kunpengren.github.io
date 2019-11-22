@@ -29,8 +29,9 @@ Publications
 
 Research Experience
 ======
-* <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
-* <i> Neural Link Prediction over Aligned Networks <\i> <br> **Accepted as a full paper at AAAI 2018**. Aug.2017 - Sep.2017
+* <i> Research Intern - Database System Research Group of NUS. </i> <br> ** Advisors: Quang-Trung Ta, Beng Chin Ooi**.  July. 2019 - present<br>Smart contracts security.
+* <i> Graduate Research Assistant - Infosec Laboratory of PKU</i> <br> **Advisors: Huiping Sun, Zhong Chen**. Apr. 2018 - July. 2019 <br>Enterprise Blockchain Framework, Blockchain applaction.<br>**A research project [ODMarket](https://kunpengren.github.io/portfolio/portfolio-2/) for Odometer data protecting and sharing.**
+* <i> Research Intern - NISL of THU</i> <br> **Advisors: Shuqiang Lu, Haixin Duan**. Sept. 2018 - Dec. 2018<br>Bitcoin transaction analysis: data mining and visualization.<br>**A research project [BCHVis](https://kunpengren.github.io/portfolio/portfolio-1/) for blockchain transaction analysis and visualization.**
   
 Talks
 ======
@@ -41,4 +42,4 @@ Talks
 
 Honors
 =====
-For more details, please view my CV.
+For more details, please view my [CV](http://kunpengren.github.io/files/CV_Kunpeng.pdf).

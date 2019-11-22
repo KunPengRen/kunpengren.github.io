@@ -1,6 +1,6 @@
 ---
 title: "Project: ODMarket"
-excerpt: "Odometer data market base on blockchain <br/><img src='/images/Odometer-2.jpg'>"
+excerpt: "Odometer data market base on blockchain <br/><img src='/images/Odometer-2.jpg' style='width: 600px;'>"
 collection: portfolio
 ---
 <p align="center">
