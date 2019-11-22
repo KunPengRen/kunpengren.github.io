@@ -1,8 +1,12 @@
 ---
 title: "Project:BCHVis"
-excerpt: "A blockchain explorer and visualization system for bitcoincash. <br/><img src='/images/500x300.png'>"
+excerpt: "A blockchain explorer and visualization system for bitcoincash. <br/><img src='/images/bchvis-1.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
+<p align="center">
+  <img src="https://kunpengren.github.io/images/bchvis-1.jpg?raw=true" alt="Photo" />
+</p>
+BCHVis is a blockchain explorer and visualization system for bitcoincash.
+<p align="center">
+  <img src="https://kunpengren.github.io/images/bchvis-2.jpg?raw=true" alt="Photo" />
+</p>
